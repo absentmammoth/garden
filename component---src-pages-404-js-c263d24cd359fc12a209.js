@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{OMi8:function(e,t,a){},w2l6:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a.n(n);a("OMi8");t.default=function(){return c.a.createElement("div",{className:"container max-w-2xl px-4 mx-auto text-gray-900 flex flex-col min-h-screen"},c.a.createElement("p",{className:"my-4"},"Hmm, Not sure if though about that... 🤔"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-c263d24cd359fc12a209.js.map
